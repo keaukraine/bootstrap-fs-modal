@@ -1,6 +1,8 @@
 # Bootstrap Mobile FullScreen Modal
 A simple way to improve UX of Bootstrap 3 modals on mobile phones.
 
+***Note**: Bootstrap 4 version of this plugin is available here - https://github.com/keaukraine/bootstrap4-fs-modal*
+
 Regular Bootstrap 3 modals (with a lot of content) on mobile devices can cause additional scrolling to get to the bottom buttons of modal.
 
 Fullscreen modal provides more native user experience on mobile phones, here is side-by-side comparison of regular and fullscreen modals:
